@@ -135,9 +135,9 @@ Reusable components (header, footer)
 Struktur folder yang terorganisir
 
 ### Routing System
-Single entry point (index.php)
+Single entry point (`index.php`)
 
-URL parameter handling (?page=)
+URL parameter handling (`?page=`)
 
 Error handling untuk halaman tidak ditemukan
 
@@ -147,3 +147,17 @@ Database class untuk koneksi MySQL
 Query methods untuk operasi data
 
 Security dengan input sanitization
+
+### User Interface
+Bootstrap 5 untuk styling
+
+Responsive design untuk mobile devices
+
+Consistent layout across all pages
+
+ ### Authentication System
+Session management untuk login state
+
+Form validation untuk input data
+
+Flash messages untuk user feedback
