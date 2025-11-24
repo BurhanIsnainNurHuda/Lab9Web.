@@ -1,9 +1,9 @@
 # Lab 9 - PHP Modular
 
-    **Nama:** Burhan Isnain Nur Huda  
-    **NIM:** 312410226  
-    **Kelas:** TI.24.A.2  
-    **Mata Kuliah:** Pemrograman Web 1
+    Nama: Burhan Isnain Nur Huda  
+    NIM: 312410226  
+    Kelas: TI.24.A.2  
+    Mata Kuliah: Pemrograman Web 1
 
 ##  Tujuan Praktikum
 1. Memahami konsep dasar Modularisasi Program
