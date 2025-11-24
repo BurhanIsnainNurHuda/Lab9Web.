@@ -103,3 +103,47 @@ Authentication (`modules/auth/login.php dan modules/auth/logout.php`)
 Login system dengan session management
 
 Logout functionality
+
+### Screenshot Hasil Praktikum
+
+### 1. Halaman Dashboard
+![Gambar WhatsApp 2025-11-24 pukul 13 56 13_3e2efe8f](https://github.com/user-attachments/assets/4cd2e568-b994-441f-b92e-5350ea35c641)
+
+Halaman utama aplikasi dengan navigation menu dan statistik cards
+
+### 2. Halaman User List
+<img width="1919" height="616" alt="image" src="https://github.com/user-attachments/assets/02e19773-d380-4d48-b380-1501b8f101c8" />
+
+Daftar pengguna dalam bentuk tabel dengan action buttons
+
+### 3. Halaman Tambah User
+<img width="1919" height="729" alt="image" src="https://github.com/user-attachments/assets/07fe2981-396b-49fa-9b08-6b1c2db2467c" />
+
+Form untuk menambahkan pengguna baru
+
+### 4. Halaman Login
+![Gambar WhatsApp 2025-11-24 pukul 13 55 00_38f7b9ee](https://github.com/user-attachments/assets/55bd09e9-d53c-4ef7-8ade-8408721c28ec)
+
+Form authentication dengan validasi
+
+### 🔧 Fitur yang Diimplementasikan
+### Konsep Modularisasi
+Pemisahan kode berdasarkan functionality
+
+Reusable components (header, footer)
+
+Struktur folder yang terorganisir
+
+### Routing System
+Single entry point (index.php)
+
+URL parameter handling (?page=)
+
+Error handling untuk halaman tidak ditemukan
+
+### Database Integration
+Database class untuk koneksi MySQL
+
+Query methods untuk operasi data
+
+Security dengan input sanitization
