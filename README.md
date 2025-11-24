@@ -161,3 +161,23 @@ Session management untuk login state
 Form validation untuk input data
 
 Flash messages untuk user feedback
+
+### Kesimpulan
+
+### Kelebihan Modular Programming:
+Maintainability - Kode lebih mudah dikelola dan di-debug
+
+Reusability - Komponen dapat digunakan kembali di project lain
+
+Scalability - Mudah menambah fitur baru tanpa mengganggu existing code
+
+Team Collaboration - Multiple developer dapat bekerja parallel di modul berbeda
+
+Security - Isolasi kode sensitive di folder terpisah
+
+### Challenge yang Dihadapi:
+Path management yang kompleks
+
+Initial setup yang membutuhkan planning
+
+Learning curve untuk pemula
